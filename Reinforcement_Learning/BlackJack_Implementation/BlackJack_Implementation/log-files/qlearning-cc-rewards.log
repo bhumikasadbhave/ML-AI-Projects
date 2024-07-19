@@ -1,0 +1,1119 @@
+INFO - Q-Learning - Rewards at end of epoch: [-1.  0. -2. ... -1. -1. -1.]
+INFO - Q-Learning - Rewards at end of epoch: [-1.    1.   -1.5  ...  0.   -0.25 -1.  ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.          1.         -0.66666667 ... -0.33333333 -0.16666667
+ -1.33333333]
+INFO - Q-Learning - Rewards at end of epoch: [-0.5    1.     0.    ...  0.25   0.375 -0.75 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.6  1.  -0.2 ...  0.6  0.5 -0.2]
+INFO - Q-Learning - Rewards at end of epoch: [-3.33333333e-01  6.66666667e-01 -2.77555756e-17 ...  3.33333333e-01
+  7.50000000e-01 -5.00000000e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.42857143  0.71428571 -0.28571429 ...  0.42857143  0.92857143
+ -0.57142857]
+INFO - Q-Learning - Rewards at end of epoch: [-0.125   0.75   -0.25   ...  0.625   0.5625 -0.375 ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.          0.88888889 -0.11111111 ...  0.66666667  0.38888889
+ -0.44444444]
+INFO - Q-Learning - Rewards at end of epoch: [-1.00000000e-01  7.00000000e-01  1.38777878e-17 ...  5.00000000e-01
+  2.50000000e-01 -3.00000000e-01]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.          0.72727273  0.09090909 ...  0.36363636  0.13636364
+ -0.45454545]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.08333333  0.75        0.08333333 ...  0.33333333  0.20833333
+ -0.5       ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.          0.76923077  0.15384615 ...  0.46153846  0.26923077
+ -0.38461538]
+INFO - Q-Learning - Rewards at end of epoch: [-0.14285714  0.78571429  0.07142857 ...  0.35714286  0.25
+ -0.42857143]
+INFO - Q-Learning - Rewards at end of epoch: [-2.00000000e-01  8.00000000e-01  1.38777878e-17 ...  3.33333333e-01
+  3.00000000e-01 -3.33333333e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-1.25000000e-01  6.25000000e-01  1.30104261e-17 ...  2.50000000e-01
+  2.18750000e-01 -2.50000000e-01]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.          0.52941176 -0.05882353 ...  0.17647059  0.26470588
+ -0.29411765]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.05555556  0.44444444 -0.16666667 ...  0.05555556  0.30555556
+ -0.22222222]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.10526316  0.47368421 -0.10526316 ...  0.10526316  0.23684211
+ -0.26315789]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.15   0.5   -0.1   ...  0.05   0.175 -0.3  ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.19047619  0.57142857 -0.04761905 ...  0.          0.11904762
+ -0.23809524]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.22727273  0.59090909 -0.09090909 ... -0.09090909  0.02272727
+ -0.27272727]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.13043478  0.65217391 -0.13043478 ... -0.17391304  0.06521739
+ -0.30434783]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.16666667  0.54166667 -0.08333333 ... -0.20833333  0.0625
+ -0.375     ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.2   0.56 -0.12 ... -0.16  0.02 -0.44]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.23076923  0.61538462 -0.15384615 ... -0.19230769  0.09615385
+ -0.40384615]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.25925926  0.66666667 -0.07407407 ... -0.25925926  0.12962963
+ -0.42592593]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.17857143  0.67857143 -0.10714286 ... -0.21428571  0.19642857
+ -0.33928571]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.13793103  0.62068966 -0.10344828 ... -0.17241379  0.18965517
+ -0.36206897]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.16666667  0.63333333 -0.06666667 ... -0.2         0.21666667
+ -0.28333333]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.12903226  0.61290323  0.         ... -0.25806452  0.17741935
+ -0.30645161]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.15625   0.625    -0.03125  ... -0.28125   0.109375 -0.328125]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.09090909  0.63636364  0.         ... -0.3030303   0.13636364
+ -0.34848485]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.05882353  0.55882353 -0.02941176 ... -0.35294118  0.19117647
+ -0.36764706]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.08571429  0.57142857  0.02857143 ... -0.37142857  0.21428571
+ -0.3       ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.05555556  0.52777778  0.02777778 ... -0.33333333  0.18055556
+ -0.34722222]
+INFO - Q-Learning - Rewards at end of epoch: [ 1.08108108e-01  5.40540541e-01 -3.46944695e-18 ... -2.97297297e-01
+  2.02702703e-01 -3.10810811e-01]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.07894737  0.5        -0.02631579 ... -0.31578947  0.25
+ -0.32894737]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.05128205  0.53846154 -0.05128205 ... -0.30769231  0.26923077
+ -0.34615385]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.025   0.55   -0.025  ... -0.325   0.2375 -0.2875]
+INFO - Q-Learning - Rewards at end of epoch: [-1.38777878e-17  4.87804878e-01 -7.31707317e-02 ... -2.92682927e-01
+  2.07317073e-01 -3.04878049e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02380952  0.5        -0.11904762 ... -0.28571429  0.17857143
+ -0.29761905]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04651163  0.46511628 -0.09302326 ... -0.27906977  0.19767442
+ -0.26744186]
+INFO - Q-Learning - Rewards at end of epoch: [-0.06818182  0.43181818 -0.11363636 ... -0.25        0.17045455
+ -0.28409091]
+INFO - Q-Learning - Rewards at end of epoch: [-0.06666667  0.46666667 -0.11111111 ... -0.2         0.18888889
+ -0.3       ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02173913  0.47826087 -0.08695652 ... -0.19565217  0.18478261
+ -0.25      ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04255319  0.5106383  -0.10638298 ... -0.19148936  0.22340426
+ -0.22340426]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02083333  0.52083333 -0.0625     ... -0.16666667  0.26041667
+ -0.19791667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04081633  0.48979592 -0.10204082 ... -0.20408163  0.23469388
+ -0.21428571]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.    0.46 -0.1  ... -0.22  0.19 -0.23]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.01960784  0.47058824 -0.11764706 ... -0.23529412  0.2254902
+ -0.2254902 ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.03846154  0.44230769 -0.13461538 ... -0.19230769  0.25961538
+ -0.24038462]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.01886792  0.47169811 -0.1509434  ... -0.16981132  0.27358491
+ -0.21698113]
+INFO - Q-Learning - Rewards at end of epoch: [-0.01851852  0.44444444 -0.16666667 ... -0.18518519  0.28703704
+ -0.19444444]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05454545  0.45454545 -0.18181818 ... -0.2         0.28181818
+ -0.19090909]
+INFO - Q-Learning - Rewards at end of epoch: [-0.07142857  0.42857143 -0.14285714 ... -0.23214286  0.25892857
+ -0.22321429]
+INFO - Q-Learning - Rewards at end of epoch: [-0.10526316  0.40350877 -0.15789474 ... -0.24561404  0.28947368
+ -0.20175439]
+INFO - Q-Learning - Rewards at end of epoch: [-0.06896552  0.37931034 -0.17241379 ... -0.22413793  0.26724138
+ -0.21551724]
+INFO - Q-Learning - Rewards at end of epoch: [-0.08474576  0.34745763 -0.13559322 ... -0.25423729  0.24576271
+ -0.22881356]
+INFO - Q-Learning - Rewards at end of epoch: [-0.06666667  0.375      -0.15       ... -0.23333333  0.225
+ -0.24166667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04918033  0.35245902 -0.18032787 ... -0.24590164  0.20491803
+ -0.22131148]
+INFO - Q-Learning - Rewards at end of epoch: [-0.01612903  0.33064516 -0.20967742 ... -0.25806452  0.18548387
+ -0.2016129 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.03174603  0.32539683 -0.19047619 ... -0.25396825  0.21428571
+ -0.21428571]
+INFO - Q-Learning - Rewards at end of epoch: [-0.046875   0.3046875 -0.203125  ... -0.21875    0.1796875 -0.2265625]
+INFO - Q-Learning - Rewards at end of epoch: [-0.03076923  0.31538462 -0.16923077 ... -0.2         0.16153846
+ -0.22307692]
+INFO - Q-Learning - Rewards at end of epoch: [-3.46944695e-18  2.95454545e-01 -1.66666667e-01 ... -2.12121212e-01
+  1.89393939e-01 -2.34848485e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02985075  0.30597015 -0.17910448 ... -0.23134328  0.18656716
+ -0.21641791]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05882353  0.27205882 -0.20588235 ... -0.24264706  0.16911765
+ -0.19852941]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04347826  0.2826087  -0.20289855 ... -0.26811594  0.15217391
+ -0.21014493]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02857143  0.25       -0.18571429 ... -0.26428571  0.12142857
+ -0.22142857]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04225352  0.26056338 -0.16901408 ... -0.23239437  0.13380282
+ -0.23239437]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02777778  0.27083333 -0.18055556 ... -0.21527778  0.14583333
+ -0.22916667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.01369863  0.23972603 -0.16438356 ... -0.23972603  0.15753425
+ -0.23972603]
+INFO - Q-Learning - Rewards at end of epoch: [ 1.73472348e-18  2.50000000e-01 -1.75675676e-01 ... -2.36486486e-01
+  1.41891892e-01 -2.36486486e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.01333333  0.24666667 -0.14666667 ... -0.24666667  0.15333333
+ -0.24666667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02631579  0.23026316 -0.13157895 ... -0.25657895  0.13815789
+ -0.21710526]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.          0.24025974 -0.14285714 ... -0.22727273  0.14935065
+ -0.24025974]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.01282051  0.23717949 -0.15384615 ... -0.23717949  0.13461538
+ -0.26282051]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.          0.20886076 -0.12658228 ... -0.24683544  0.15822785
+ -0.2721519 ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.       0.19375 -0.1125  ... -0.23125  0.16875 -0.29375]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02469136  0.2037037  -0.12345679 ... -0.25308642  0.15432099
+ -0.30246914]
+INFO - Q-Learning - Rewards at end of epoch: [-0.01219512  0.21341463 -0.1097561  ... -0.23780488  0.17682927
+ -0.31097561]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02409639  0.22289157 -0.09638554 ... -0.24698795  0.1626506
+ -0.30722892]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02380952  0.23214286 -0.0952381  ... -0.25595238  0.13690476
+ -0.29166667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04705882  0.21764706 -0.09411765 ... -0.26470588  0.12352941
+ -0.3       ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04651163  0.20348837 -0.10465116 ... -0.27325581  0.14534884
+ -0.29651163]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05747126  0.17816092 -0.09195402 ... -0.29310345  0.15517241
+ -0.3045977 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04545455  0.1875     -0.11363636 ... -0.30113636  0.14204545
+ -0.30113636]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05617978  0.16292135 -0.08988764 ... -0.28651685  0.12921348
+ -0.30898876]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04444444  0.17222222 -0.06666667 ... -0.27222222  0.11666667
+ -0.32777778]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05494505  0.15934066 -0.07692308 ... -0.25824176  0.1043956
+ -0.31318681]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04347826  0.13586957 -0.08695652 ... -0.26630435  0.0923913
+ -0.29891304]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02150538  0.12365591 -0.07526882 ... -0.25268817  0.11290323
+ -0.28494624]
+INFO - Q-Learning - Rewards at end of epoch: [-0.03191489  0.11170213 -0.08510638 ... -0.2393617   0.12234043
+ -0.2606383 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.01052632  0.08947368 -0.07368421 ... -0.24736842  0.11052632
+ -0.25789474]
+INFO - Q-Learning - Rewards at end of epoch: [ 1.73472348e-18  6.77083333e-02 -6.25000000e-02 ... -2.65625000e-01
+  9.89583333e-02 -2.65625000e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02061856  0.05670103 -0.08247423 ... -0.2628866   0.08762887
+ -0.27319588]
+INFO - Q-Learning - Rewards at end of epoch: [-0.03061224  0.03571429 -0.06122449 ... -0.28061224  0.06632653
+ -0.28061224]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04040404  0.05555556 -0.07070707 ... -0.26767677  0.08585859
+ -0.28787879]
+INFO - Q-Learning - Rewards at end of epoch: [-0.03   0.065 -0.08  ... -0.255  0.075 -0.285]
+INFO - Q-Learning - Rewards at end of epoch: [-0.5 -1.  -2.  ... -1.  -2.   1. ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.25  0.   -0.5  ... -1.   -1.5  -0.5 ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.16666667  0.33333333 -0.66666667 ... -1.         -1.33333333
+  0.        ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.375  0.5   -0.75  ... -1.    -1.25  -0.25 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.5  0.6 -0.8 ... -0.6 -1.2 -0.4]
+INFO - Q-Learning - Rewards at end of epoch: [-0.58333333  0.83333333 -0.83333333 ... -0.66666667 -0.91666667
+ -0.16666667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.35714286  0.85714286 -0.57142857 ... -0.85714286 -0.78571429
+ -0.28571429]
+INFO - Q-Learning - Rewards at end of epoch: [-0.4375  0.875  -0.625  ... -0.5    -0.4375 -0.125 ]
+INFO - Q-Learning - Rewards at end of epoch: [-2.77777778e-01  6.66666667e-01 -6.66666667e-01 ... -4.44444444e-01
+ -2.77777778e-01 -2.77555756e-17]
+INFO - Q-Learning - Rewards at end of epoch: [-0.15  0.4  -0.6  ... -0.5  -0.35 -0.1 ]
+INFO - Q-Learning - Rewards at end of epoch: [-4.54545455e-02  3.63636364e-01 -4.54545455e-01 ... -5.45454545e-01
+ -2.27272727e-01 -2.77555756e-17]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04166667  0.41666667 -0.5        ... -0.41666667 -0.20833333
+  0.08333333]
+INFO - Q-Learning - Rewards at end of epoch: [-1.15384615e-01  5.38461538e-01 -3.84615385e-01 ... -4.61538462e-01
+ -2.69230769e-01 -2.77555756e-17]
+INFO - Q-Learning - Rewards at end of epoch: [-0.03571429  0.5        -0.21428571 ... -0.53571429 -0.32142857
+  0.07142857]
+INFO - Q-Learning - Rewards at end of epoch: [-0.1         0.33333333 -0.33333333 ... -0.5        -0.3
+  0.13333333]
+INFO - Q-Learning - Rewards at end of epoch: [-3.12500000e-02  2.50000000e-01 -2.50000000e-01 ... -4.06250000e-01
+ -2.18750000e-01 -2.77555756e-17]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.02941176  0.29411765 -0.32352941 ... -0.44117647 -0.26470588
+  0.05882353]
+INFO - Q-Learning - Rewards at end of epoch: [ 1.38888889e-01  1.66666667e-01 -2.50000000e-01 ... -3.61111111e-01
+ -1.94444444e-01 -2.77555756e-17]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.07894737  0.21052632 -0.34210526 ... -0.39473684 -0.23684211
+ -0.05263158]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.125  0.25  -0.275 ... -0.475 -0.175 -0.1  ]
+INFO - Q-Learning - Rewards at end of epoch: [ 1.19047619e-01  2.85714286e-01 -3.57142857e-01 ... -5.00000000e-01
+ -2.61904762e-01 -1.38777878e-17]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.15909091  0.31818182 -0.38636364 ... -0.52272727 -0.15909091
+ -0.04545455]
+INFO - Q-Learning - Rewards at end of epoch: [ 8.69565217e-02  3.91304348e-01 -4.13043478e-01 ... -5.43478261e-01
+ -1.08695652e-01 -1.38777878e-17]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.04166667  0.41666667 -0.35416667 ... -0.60416667 -0.1875
+  0.02083333]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.12  0.4  -0.3  ... -0.62 -0.26  0.02]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.07692308  0.42307692 -0.25       ... -0.63461538 -0.28846154
+  0.01923077]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.03703704  0.37037037 -0.24074074 ... -0.53703704 -0.24074074
+  0.09259259]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.10714286  0.32142857 -0.26785714 ... -0.44642857 -0.16071429
+  0.08928571]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.10344828  0.24137931 -0.29310345 ... -0.46551724 -0.18965517
+  0.05172414]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.03333333  0.23333333 -0.31666667 ... -0.48333333 -0.25
+  0.08333333]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.          0.16129032 -0.33870968 ... -0.43548387 -0.27419355
+  0.01612903]
+INFO - Q-Learning - Rewards at end of epoch: [-0.0625    0.125    -0.328125 ... -0.453125 -0.296875 -0.015625]
+INFO - Q-Learning - Rewards at end of epoch: [-0.03030303  0.09090909 -0.25757576 ... -0.5        -0.31818182
+  0.04545455]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05882353  0.11764706 -0.22058824 ... -0.42647059 -0.33823529
+  0.07352941]
+INFO - Q-Learning - Rewards at end of epoch: [-0.08571429  0.17142857 -0.24285714 ... -0.44285714 -0.3
+  0.07142857]
+INFO - Q-Learning - Rewards at end of epoch: [-0.11111111  0.22222222 -0.26388889 ... -0.45833333 -0.26388889
+  0.09722222]
+INFO - Q-Learning - Rewards at end of epoch: [-0.13513514  0.27027027 -0.22972973 ... -0.47297297 -0.22972973
+  0.10810811]
+INFO - Q-Learning - Rewards at end of epoch: [-0.10526316  0.23684211 -0.27631579 ... -0.43421053 -0.25
+  0.13157895]
+INFO - Q-Learning - Rewards at end of epoch: [-0.12820513  0.25641026 -0.29487179 ... -0.37179487 -0.21794872
+  0.12820513]
+INFO - Q-Learning - Rewards at end of epoch: [-0.075   0.225  -0.2375 ... -0.3875 -0.1875  0.15  ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.09756098  0.19512195 -0.25609756 ... -0.37804878 -0.15853659
+  0.12195122]
+INFO - Q-Learning - Rewards at end of epoch: [-0.07142857  0.14285714 -0.27380952 ... -0.36904762 -0.13095238
+  0.0952381 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02325581  0.18604651 -0.31395349 ... -0.38372093 -0.15116279
+  0.13953488]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04545455  0.20454545 -0.28409091 ... -0.39772727 -0.14772727
+  0.11363636]
+INFO - Q-Learning - Rewards at end of epoch: [-0.06666667  0.17777778 -0.25555556 ... -0.36666667 -0.16666667
+  0.08888889]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02173913  0.13043478 -0.22826087 ... -0.40217391 -0.20652174
+  0.10869565]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04255319  0.10638298 -0.20212766 ... -0.41489362 -0.15957447
+  0.06382979]
+INFO - Q-Learning - Rewards at end of epoch: [-0.0625      0.10416667 -0.15625    ... -0.38541667 -0.11458333
+  0.08333333]
+INFO - Q-Learning - Rewards at end of epoch: [-0.08163265  0.06122449 -0.15306122 ... -0.35714286 -0.09183673
+  0.06122449]
+INFO - Q-Learning - Rewards at end of epoch: [-0.06  0.08 -0.17 ... -0.33 -0.07  0.08]
+INFO - Q-Learning - Rewards at end of epoch: [-0.03921569  0.05882353 -0.18627451 ... -0.34313725 -0.02941176
+  0.05882353]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.          0.03846154 -0.16346154 ... -0.31730769 -0.02884615
+  0.07692308]
+INFO - Q-Learning - Rewards at end of epoch: [-0.01886792  0.01886792 -0.17924528 ... -0.33018868 -0.04716981
+  0.03773585]
+INFO - Q-Learning - Rewards at end of epoch: [-0.03703704  0.03703704 -0.13888889 ... -0.34259259 -0.06481481
+  0.05555556]
+INFO - Q-Learning - Rewards at end of epoch: [-5.45454545e-02  6.93889390e-18 -1.36363636e-01 ... -3.54545455e-01
+ -1.00000000e-01  3.63636364e-02]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05357143 -0.01785714 -0.15178571 ... -0.3125     -0.11607143
+  0.03571429]
+INFO - Q-Learning - Rewards at end of epoch: [-0.0877193  -0.03508772 -0.16666667 ... -0.28947368 -0.14912281
+  0.01754386]
+INFO - Q-Learning - Rewards at end of epoch: [-0.10344828 -0.05172414 -0.12931034 ... -0.30172414 -0.12931034
+  0.03448276]
+INFO - Q-Learning - Rewards at end of epoch: [-0.11864407 -0.03389831 -0.11016949 ... -0.31355932 -0.1440678
+  0.03389831]
+INFO - Q-Learning - Rewards at end of epoch: [-0.1        -0.05       -0.125      ... -0.34166667 -0.15833333
+  0.01666667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.09836066 -0.03278689 -0.09016393 ... -0.30327869 -0.13934426
+  0.        ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.08064516 -0.0483871  -0.05645161 ... -0.2983871  -0.13709677
+  0.03225806]
+INFO - Q-Learning - Rewards at end of epoch: [-0.06349206 -0.06349206 -0.05555556 ... -0.27777778 -0.11904762
+  0.01587302]
+INFO - Q-Learning - Rewards at end of epoch: [-0.046875  -0.078125  -0.0390625 ... -0.2890625 -0.0859375 -0.015625 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.03076923 -0.09230769 -0.02307692 ... -0.26923077 -0.1
+ -0.03076923]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04545455 -0.10606061 -0.00757576 ... -0.28030303 -0.09848485
+ -0.06060606]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05970149 -0.13432836  0.02238806 ... -0.29104478 -0.08208955
+ -0.04477612]
+INFO - Q-Learning - Rewards at end of epoch: [-0.07352941 -0.14705882  0.02205882 ... -0.27205882 -0.06617647
+ -0.05882353]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05797101 -0.11594203  0.03623188 ... -0.25362319 -0.06521739
+ -0.07246377]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04285714 -0.12857143  0.05       ... -0.26428571 -0.07857143
+ -0.1       ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05633803 -0.14084507  0.06338028 ... -0.24647887 -0.0915493
+ -0.08450704]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04166667 -0.15277778  0.04861111 ... -0.24305556 -0.07638889
+ -0.05555556]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02739726 -0.16438356  0.03424658 ... -0.2260274  -0.06164384
+ -0.02739726]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04054054 -0.14864865  0.02027027 ... -0.23648649 -0.08783784
+ -0.05405405]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05333333 -0.13333333  0.00666667 ... -0.22       -0.07333333
+ -0.02666667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.06578947 -0.11842105 -0.00657895 ... -0.20394737 -0.08552632
+ -0.05263158]
+INFO - Q-Learning - Rewards at end of epoch: [-0.09090909 -0.12987013 -0.01948052 ... -0.2012987  -0.08441558
+ -0.03896104]
+INFO - Q-Learning - Rewards at end of epoch: [-0.06410256 -0.14102564 -0.03205128 ... -0.21153846 -0.10897436
+ -0.02564103]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05063291 -0.15189873 -0.03164557 ... -0.22151899 -0.09493671
+  0.        ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05625 -0.1375  -0.01875 ... -0.20625 -0.10625 -0.01875]
+INFO - Q-Learning - Rewards at end of epoch: [-0.06790123 -0.12345679 -0.0308642  ... -0.19135802 -0.11728395
+ -0.00617284]
+INFO - Q-Learning - Rewards at end of epoch: [-0.04268293 -0.13414634 -0.01829268 ... -0.16463415 -0.11585366
+  0.00609756]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05421687 -0.13253012  0.0060241  ... -0.13855422 -0.10240964
+ -0.0060241 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.06547619 -0.11904762  0.00595238 ... -0.125      -0.11309524
+ -0.01785714]
+INFO - Q-Learning - Rewards at end of epoch: [-0.07647059 -0.14117647  0.01764706 ... -0.1        -0.13529412
+ -0.04117647]
+INFO - Q-Learning - Rewards at end of epoch: [-0.0872093  -0.13372093  0.00581395 ... -0.09302326 -0.12209302
+ -0.02906977]
+INFO - Q-Learning - Rewards at end of epoch: [-0.09770115 -0.12068966 -0.00574713 ... -0.08045977 -0.1091954
+ -0.04022989]
+INFO - Q-Learning - Rewards at end of epoch: [-0.08522727 -0.13068182 -0.01704545 ... -0.06818182 -0.08522727
+ -0.01704545]
+INFO - Q-Learning - Rewards at end of epoch: [-0.09550562 -0.12921348 -0.02808989 ... -0.07865169 -0.09550562
+ -0.02808989]
+INFO - Q-Learning - Rewards at end of epoch: [-0.11666667 -0.15       -0.03888889 ... -0.06666667 -0.08333333
+ -0.01666667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.12637363 -0.15934066 -0.02747253 ... -0.07692308 -0.1043956
+ -0.03846154]
+INFO - Q-Learning - Rewards at end of epoch: [-0.10326087 -0.14673913 -0.00543478 ... -0.05434783 -0.0923913
+ -0.01630435]
+INFO - Q-Learning - Rewards at end of epoch: [-0.09139785 -0.1344086   0.00537634 ... -0.05376344 -0.08064516
+ -0.02688172]
+INFO - Q-Learning - Rewards at end of epoch: [-0.10106383 -0.12234043  0.01595745 ... -0.06382979 -0.09042553
+ -0.03723404]
+INFO - Q-Learning - Rewards at end of epoch: [-0.1        -0.13157895  0.02631579 ... -0.07368421 -0.07894737
+ -0.02631579]
+INFO - Q-Learning - Rewards at end of epoch: [-0.08854167 -0.15104167  0.03645833 ... -0.05208333 -0.078125
+ -0.015625  ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.08762887 -0.13917526  0.0257732  ... -0.06185567 -0.07731959
+ -0.0257732 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.09693878 -0.14795918  0.03571429 ... -0.05612245 -0.08673469
+ -0.01530612]
+INFO - Q-Learning - Rewards at end of epoch: [-0.10606061 -0.12626263  0.04545455 ... -0.07575758 -0.07575758
+ -0.00505051]
+INFO - Q-Learning - Rewards at end of epoch: [-0.085 -0.115  0.045 ... -0.085 -0.085  0.005]
+INFO - Q-Learning - Rewards at end of epoch: [ 1.  2. -1. ...  2. -2. -1.]
+INFO - Q-Learning - Rewards at end of epoch: [ 1.   0.5 -1.5 ...  0.  -0.5  0. ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.33333333  0.5        -1.33333333 ... -0.66666667 -0.33333333
+ -0.33333333]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.5    0.875 -1.    ... -0.75  -0.5   -0.75 ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.6  0.9 -1.  ... -0.8 -0.6 -0.8]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.66666667  0.91666667 -1.         ... -0.5        -0.16666667
+ -0.83333333]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.42857143  1.07142857 -1.14285714 ... -0.14285714 -0.42857143
+ -1.        ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.25  0.75 -1.25 ... -0.25 -0.5  -0.75]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.11111111  0.55555556 -1.         ... -0.11111111 -0.44444444
+ -0.66666667]
+INFO - Q-Learning - Rewards at end of epoch: [-4.16333634e-17  4.00000000e-01 -1.00000000e+00 ...  1.38777878e-17
+ -5.00000000e-01 -5.00000000e-01]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.18181818  0.27272727 -0.81818182 ... -0.09090909 -0.27272727
+ -0.54545455]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.08333333  0.33333333 -0.83333333 ... -0.16666667 -0.16666667
+ -0.41666667]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.15384615  0.30769231 -0.69230769 ... -0.07692308 -0.30769231
+ -0.23076923]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.21428571  0.35714286 -0.57142857 ... -0.21428571 -0.42857143
+ -0.28571429]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.13333333  0.4        -0.6        ... -0.26666667 -0.4
+ -0.2       ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.1875  0.4375 -0.6875 ... -0.3125 -0.4375 -0.125 ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.23529412  0.35294118 -0.70588235 ... -0.35294118 -0.47058824
+ -0.05882353]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.16666667  0.22222222 -0.66666667 ... -0.38888889 -0.5
+ -0.11111111]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.10526316  0.31578947 -0.73684211 ... -0.31578947 -0.42105263
+ -0.10526316]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.15  0.25 -0.75 ... -0.25 -0.45 -0.15]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.23809524  0.14285714 -0.66666667 ... -0.23809524 -0.47619048
+ -0.0952381 ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.18181818  0.09090909 -0.63636364 ... -0.18181818 -0.5
+ -0.18181818]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.13043478  0.         -0.56521739 ... -0.2173913  -0.52173913
+ -0.13043478]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.08333333  0.04166667 -0.5        ... -0.25       -0.54166667
+ -0.16666667]
+INFO - Q-Learning - Rewards at end of epoch: [ 8.0000000e-02 -6.9388939e-18 -4.0000000e-01 ... -2.8000000e-01
+ -4.8000000e-01 -1.2000000e-01]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.07692308 -0.03846154 -0.42307692 ... -0.26923077 -0.5
+ -0.15384615]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.11111111 -0.11111111 -0.40740741 ... -0.2962963  -0.44444444
+ -0.18518519]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.07142857 -0.14285714 -0.35714286 ... -0.28571429 -0.39285714
+ -0.21428571]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.03448276 -0.20689655 -0.37931034 ... -0.24137931 -0.44827586
+ -0.24137931]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.06666667 -0.23333333 -0.4        ... -0.23333333 -0.36666667
+ -0.26666667]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.03225806 -0.29032258 -0.35483871 ... -0.25806452 -0.32258065
+ -0.32258065]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.0625  -0.34375 -0.375   ... -0.3125  -0.28125 -0.34375]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.03030303 -0.33333333 -0.39393939 ... -0.24242424 -0.24242424
+ -0.36363636]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.08823529 -0.35294118 -0.42647059 ... -0.20588235 -0.20588235
+ -0.38235294]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.05714286 -0.34285714 -0.47142857 ... -0.22857143 -0.17142857
+ -0.4       ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.02777778 -0.36111111 -0.43055556 ... -0.27777778 -0.13888889
+ -0.36111111]
+INFO - Q-Learning - Rewards at end of epoch: [-6.93889390e-18 -3.78378378e-01 -4.45945946e-01 ... -3.24324324e-01
+ -1.35135135e-01 -4.05405405e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02631579 -0.31578947 -0.40789474 ... -0.31578947 -0.15789474
+ -0.42105263]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05128205 -0.33333333 -0.37179487 ... -0.33333333 -0.17948718
+ -0.38461538]
+INFO - Q-Learning - Rewards at end of epoch: [-0.075  -0.35   -0.3625 ... -0.35   -0.2    -0.35  ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.12195122 -0.36585366 -0.37804878 ... -0.31707317 -0.2195122
+ -0.3902439 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.14285714 -0.38095238 -0.39285714 ... -0.30952381 -0.23809524
+ -0.4047619 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.1627907  -0.37209302 -0.40697674 ... -0.3255814  -0.20930233
+ -0.41860465]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18181818 -0.34090909 -0.375      ... -0.34090909 -0.25
+ -0.38636364]
+INFO - Q-Learning - Rewards at end of epoch: [-0.22222222 -0.28888889 -0.41111111 ... -0.31111111 -0.22222222
+ -0.42222222]
+INFO - Q-Learning - Rewards at end of epoch: [-0.23913043 -0.2826087  -0.42391304 ... -0.32608696 -0.23913043
+ -0.45652174]
+INFO - Q-Learning - Rewards at end of epoch: [-0.25531915 -0.25531915 -0.43617021 ... -0.34042553 -0.25531915
+ -0.46808511]
+INFO - Q-Learning - Rewards at end of epoch: [-0.22916667 -0.27083333 -0.40625    ... -0.3125     -0.29166667
+ -0.5       ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20408163 -0.24489796 -0.39795918 ... -0.32653061 -0.30612245
+ -0.46938776]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18 -0.22 -0.37 ... -0.34 -0.28 -0.44]
+INFO - Q-Learning - Rewards at end of epoch: [-0.21568627 -0.23529412 -0.34313725 ... -0.35294118 -0.30392157
+ -0.45098039]
+INFO - Q-Learning - Rewards at end of epoch: [-0.19230769 -0.19230769 -0.375      ... -0.36538462 -0.27884615
+ -0.44230769]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20754717 -0.16981132 -0.3490566  ... -0.32075472 -0.29245283
+ -0.45283019]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18518519 -0.16666667 -0.32407407 ... -0.33333333 -0.30555556
+ -0.46296296]
+INFO - Q-Learning - Rewards at end of epoch: [-0.16363636 -0.12727273 -0.35454545 ... -0.32727273 -0.28181818
+ -0.47272727]
+INFO - Q-Learning - Rewards at end of epoch: [-0.14285714 -0.16071429 -0.33035714 ... -0.30357143 -0.25892857
+ -0.42857143]
+INFO - Q-Learning - Rewards at end of epoch: [-0.14035088 -0.1754386  -0.28947368 ... -0.31578947 -0.27192982
+ -0.42105263]
+INFO - Q-Learning - Rewards at end of epoch: [-0.17241379 -0.15517241 -0.26724138 ... -0.34482759 -0.30172414
+ -0.37931034]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20338983 -0.15254237 -0.24576271 ... -0.37288136 -0.26271186
+ -0.3559322 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.21666667 -0.16666667 -0.24166667 ... -0.4        -0.275
+ -0.33333333]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18032787 -0.18032787 -0.2704918  ... -0.42622951 -0.2704918
+ -0.3442623 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.16129032 -0.16129032 -0.25       ... -0.40322581 -0.25
+ -0.35483871]
+INFO - Q-Learning - Rewards at end of epoch: [-0.17460317 -0.15873016 -0.26190476 ... -0.41269841 -0.26190476
+ -0.34920635]
+INFO - Q-Learning - Rewards at end of epoch: [-0.1875    -0.171875  -0.2734375 ... -0.390625  -0.2421875 -0.3671875]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20769231 -0.18461538 -0.26923077 ... -0.4        -0.25384615
+ -0.39230769]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18939394 -0.1969697  -0.25757576 ... -0.37878788 -0.26515152
+ -0.37121212]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18656716 -0.20895522 -0.23880597 ... -0.35820896 -0.24626866
+ -0.35074627]
+INFO - Q-Learning - Rewards at end of epoch: [-0.16911765 -0.22058824 -0.22058824 ... -0.33823529 -0.21323529
+ -0.33088235]
+INFO - Q-Learning - Rewards at end of epoch: [-0.15217391 -0.20289855 -0.24637681 ... -0.31884058 -0.22463768
+ -0.34057971]
+INFO - Q-Learning - Rewards at end of epoch: [-0.16428571 -0.17142857 -0.22857143 ... -0.34285714 -0.20714286
+ -0.32142857]
+INFO - Q-Learning - Rewards at end of epoch: [-0.17605634 -0.15492958 -0.21126761 ... -0.33802817 -0.21830986
+ -0.3028169 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20138889 -0.16666667 -0.18055556 ... -0.34722222 -0.22916667
+ -0.3125    ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18493151 -0.15068493 -0.16438356 ... -0.35616438 -0.23972603
+ -0.30821918]
+INFO - Q-Learning - Rewards at end of epoch: [-0.19594595 -0.13513514 -0.17567568 ... -0.32432432 -0.22297297
+ -0.31756757]
+INFO - Q-Learning - Rewards at end of epoch: [-0.19333333 -0.14666667 -0.16       ... -0.30666667 -0.20666667
+ -0.28666667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20394737 -0.13157895 -0.17105263 ... -0.31578947 -0.21710526
+ -0.30921053]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18831169 -0.11688312 -0.18181818 ... -0.2987013  -0.22727273
+ -0.27922078]
+INFO - Q-Learning - Rewards at end of epoch: [-0.19871795 -0.1025641  -0.16666667 ... -0.32051282 -0.25
+ -0.28846154]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20886076 -0.08860759 -0.17721519 ... -0.30379747 -0.23417722
+ -0.29746835]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20625 -0.1     -0.1875  ... -0.2875  -0.25625 -0.30625]
+INFO - Q-Learning - Rewards at end of epoch: [-0.21604938 -0.09876543 -0.17283951 ... -0.2962963  -0.2654321
+ -0.27777778]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20121951 -0.12195122 -0.15853659 ... -0.30487805 -0.25
+ -0.28658537]
+INFO - Q-Learning - Rewards at end of epoch: [-0.21084337 -0.10843373 -0.14457831 ... -0.28915663 -0.23493976
+ -0.27108434]
+INFO - Q-Learning - Rewards at end of epoch: [-0.19642857 -0.11904762 -0.13095238 ... -0.28571429 -0.2202381
+ -0.26785714]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18235294 -0.14117647 -0.14117647 ... -0.27058824 -0.24117647
+ -0.27647059]
+INFO - Q-Learning - Rewards at end of epoch: [-0.19186047 -0.15697674 -0.13953488 ... -0.25581395 -0.25
+ -0.28488372]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20114943 -0.16666667 -0.14942529 ... -0.26436782 -0.25862069
+ -0.27011494]
+INFO - Q-Learning - Rewards at end of epoch: [-0.22159091 -0.15340909 -0.17045455 ... -0.25       -0.26704545
+ -0.28977273]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20786517 -0.16292135 -0.15730337 ... -0.23595506 -0.2752809
+ -0.2752809 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.19444444 -0.15       -0.16666667 ... -0.22222222 -0.28333333
+ -0.26111111]
+INFO - Q-Learning - Rewards at end of epoch: [-0.2032967  -0.13736264 -0.15384615 ... -0.20879121 -0.26923077
+ -0.24725275]
+INFO - Q-Learning - Rewards at end of epoch: [-0.17934783 -0.13586957 -0.16304348 ... -0.2173913  -0.24456522
+ -0.23369565]
+INFO - Q-Learning - Rewards at end of epoch: [-0.16666667 -0.14516129 -0.17204301 ... -0.22580645 -0.25268817
+ -0.2311828 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.17553191 -0.15425532 -0.14893617 ... -0.23404255 -0.2393617
+ -0.21808511]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18421053 -0.14210526 -0.16842105 ... -0.22105263 -0.24736842
+ -0.20526316]
+INFO - Q-Learning - Rewards at end of epoch: [-0.16145833 -0.16145833 -0.15625    ... -0.19791667 -0.234375
+ -0.21354167]
+INFO - Q-Learning - Rewards at end of epoch: [-0.17010309 -0.18041237 -0.1443299  ... -0.20618557 -0.21134021
+ -0.21134021]
+INFO - Q-Learning - Rewards at end of epoch: [-0.14795918 -0.18877551 -0.13265306 ... -0.19387755 -0.21938776
+ -0.19897959]
+INFO - Q-Learning - Rewards at end of epoch: [-0.15656566 -0.1969697  -0.12121212 ... -0.2020202  -0.22727273
+ -0.18686869]
+INFO - Q-Learning - Rewards at end of epoch: [-0.145 -0.185 -0.13  ... -0.19  -0.235 -0.175]
+INFO - Q-Learning - Rewards at end of epoch: [-1.  2. -1. ...  1. -1. -1.]
+INFO - Q-Learning - Rewards at end of epoch: [-1.   0.5 -1.  ...  1.5 -1.  -1. ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.33333333  0.         -1.         ...  0.66666667 -1.
+ -1.        ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.5  -0.25 -0.75 ...  0.25 -1.   -1.25]
+INFO - Q-Learning - Rewards at end of epoch: [-0.6 -0.6 -0.2 ...  0.  -0.4 -1. ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.66666667 -0.33333333 -0.33333333 ... -0.33333333 -0.5
+ -0.5       ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.71428571 -0.42857143 -0.57142857 ... -0.57142857 -0.71428571
+ -0.57142857]
+INFO - Q-Learning - Rewards at end of epoch: [-0.875 -0.5   -0.375 ... -0.625 -0.75  -0.375]
+INFO - Q-Learning - Rewards at end of epoch: [-0.66666667 -0.55555556 -0.33333333 ... -0.66666667 -0.55555556
+ -0.44444444]
+INFO - Q-Learning - Rewards at end of epoch: [-0.5  -0.45 -0.5  ... -0.8  -0.6  -0.6 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.40909091 -0.31818182 -0.36363636 ... -0.81818182 -0.63636364
+ -0.45454545]
+INFO - Q-Learning - Rewards at end of epoch: [-0.45833333 -0.29166667 -0.25       ... -0.91666667 -0.66666667
+ -0.375     ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.57692308 -0.42307692 -0.30769231 ... -0.69230769 -0.69230769
+ -0.42307692]
+INFO - Q-Learning - Rewards at end of epoch: [-0.46428571 -0.46428571 -0.35714286 ... -0.78571429 -0.71428571
+ -0.32142857]
+INFO - Q-Learning - Rewards at end of epoch: [-0.5        -0.5        -0.2        ... -0.86666667 -0.73333333
+ -0.23333333]
+INFO - Q-Learning - Rewards at end of epoch: [-0.40625 -0.59375 -0.25    ... -0.875   -0.75    -0.28125]
+INFO - Q-Learning - Rewards at end of epoch: [-0.38235294 -0.44117647 -0.29411765 ... -0.88235294 -0.64705882
+ -0.38235294]
+INFO - Q-Learning - Rewards at end of epoch: [-0.41666667 -0.52777778 -0.33333333 ... -0.77777778 -0.72222222
+ -0.41666667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.34210526 -0.55263158 -0.42105263 ... -0.84210526 -0.63157895
+ -0.39473684]
+INFO - Q-Learning - Rewards at end of epoch: [-0.425 -0.475 -0.45  ... -0.85  -0.5   -0.425]
+INFO - Q-Learning - Rewards at end of epoch: [-0.45238095 -0.54761905 -0.47619048 ... -0.71428571 -0.52380952
+ -0.4047619 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.47727273 -0.56818182 -0.54545455 ... -0.77272727 -0.45454545
+ -0.43181818]
+INFO - Q-Learning - Rewards at end of epoch: [-0.54347826 -0.58695652 -0.56521739 ... -0.7826087  -0.34782609
+ -0.45652174]
+INFO - Q-Learning - Rewards at end of epoch: [-0.60416667 -0.60416667 -0.58333333 ... -0.83333333 -0.33333333
+ -0.47916667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.66 -0.62 -0.6  ... -0.72 -0.36 -0.54]
+INFO - Q-Learning - Rewards at end of epoch: [-0.55769231 -0.55769231 -0.65384615 ... -0.73076923 -0.30769231
+ -0.55769231]
+INFO - Q-Learning - Rewards at end of epoch: [-0.57407407 -0.57407407 -0.59259259 ... -0.74074074 -0.22222222
+ -0.46296296]
+INFO - Q-Learning - Rewards at end of epoch: [-0.51785714 -0.51785714 -0.60714286 ... -0.75       -0.14285714
+ -0.44642857]
+INFO - Q-Learning - Rewards at end of epoch: [-0.56896552 -0.5        -0.62068966 ... -0.75862069 -0.17241379
+ -0.46551724]
+INFO - Q-Learning - Rewards at end of epoch: [-0.58333333 -0.51666667 -0.63333333 ... -0.73333333 -0.2
+ -0.48333333]
+INFO - Q-Learning - Rewards at end of epoch: [-0.59677419 -0.53225806 -0.67741935 ... -0.74193548 -0.22580645
+ -0.53225806]
+INFO - Q-Learning - Rewards at end of epoch: [-0.609375 -0.578125 -0.71875  ... -0.78125  -0.25     -0.546875]
+INFO - Q-Learning - Rewards at end of epoch: [-0.65151515 -0.5        -0.72727273 ... -0.72727273 -0.18181818
+ -0.56060606]
+INFO - Q-Learning - Rewards at end of epoch: [-0.66176471 -0.45588235 -0.73529412 ... -0.70588235 -0.20588235
+ -0.57352941]
+INFO - Q-Learning - Rewards at end of epoch: [-0.61428571 -0.47142857 -0.74285714 ... -0.65714286 -0.25714286
+ -0.5       ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.625      -0.43055556 -0.75       ... -0.66666667 -0.27777778
+ -0.43055556]
+INFO - Q-Learning - Rewards at end of epoch: [-0.58108108 -0.39189189 -0.7027027  ... -0.67567568 -0.21621622
+ -0.44594595]
+INFO - Q-Learning - Rewards at end of epoch: [-0.53947368 -0.38157895 -0.71052632 ... -0.68421053 -0.23684211
+ -0.38157895]
+INFO - Q-Learning - Rewards at end of epoch: [-0.5        -0.3974359  -0.71794872 ... -0.69230769 -0.20512821
+ -0.34615385]
+INFO - Q-Learning - Rewards at end of epoch: [-0.5125 -0.3625 -0.725  ... -0.725  -0.225  -0.3875]
+INFO - Q-Learning - Rewards at end of epoch: [-0.47560976 -0.37804878 -0.75609756 ... -0.73170732 -0.19512195
+ -0.35365854]
+INFO - Q-Learning - Rewards at end of epoch: [-0.48809524 -0.3452381  -0.71428571 ... -0.73809524 -0.16666667
+ -0.32142857]
+INFO - Q-Learning - Rewards at end of epoch: [-0.5        -0.36046512 -0.74418605 ... -0.74418605 -0.13953488
+ -0.26744186]
+INFO - Q-Learning - Rewards at end of epoch: [-0.53409091 -0.32954545 -0.72727273 ... -0.75       -0.15909091
+ -0.23863636]
+INFO - Q-Learning - Rewards at end of epoch: [-0.54444444 -0.3        -0.75555556 ... -0.73333333 -0.2
+ -0.18888889]
+INFO - Q-Learning - Rewards at end of epoch: [-0.57608696 -0.31521739 -0.76086957 ... -0.73913043 -0.15217391
+ -0.22826087]
+INFO - Q-Learning - Rewards at end of epoch: [-0.58510638 -0.32978723 -0.76595745 ... -0.74468085 -0.19148936
+ -0.26595745]
+INFO - Q-Learning - Rewards at end of epoch: [-0.59375    -0.34375    -0.77083333 ... -0.70833333 -0.16666667
+ -0.28125   ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.60204082 -0.35714286 -0.73469388 ... -0.67346939 -0.18367347
+ -0.30612245]
+INFO - Q-Learning - Rewards at end of epoch: [-0.57 -0.31 -0.68 ... -0.68 -0.18 -0.28]
+INFO - Q-Learning - Rewards at end of epoch: [-0.59803922 -0.32352941 -0.68627451 ... -0.70588235 -0.17647059
+ -0.29411765]
+INFO - Q-Learning - Rewards at end of epoch: [-0.60576923 -0.27884615 -0.69230769 ... -0.67307692 -0.19230769
+ -0.30769231]
+INFO - Q-Learning - Rewards at end of epoch: [-0.63207547 -0.23584906 -0.69811321 ... -0.62264151 -0.20754717
+ -0.32075472]
+INFO - Q-Learning - Rewards at end of epoch: [-0.64814815 -0.25       -0.72222222 ... -0.62962963 -0.22222222
+ -0.27777778]
+INFO - Q-Learning - Rewards at end of epoch: [-0.67272727 -0.26363636 -0.70909091 ... -0.6        -0.25454545
+ -0.29090909]
+INFO - Q-Learning - Rewards at end of epoch: [-0.67857143 -0.27678571 -0.67857143 ... -0.57142857 -0.21428571
+ -0.30357143]
+INFO - Q-Learning - Rewards at end of epoch: [-0.64912281 -0.28947368 -0.64912281 ... -0.57894737 -0.1754386
+ -0.31578947]
+INFO - Q-Learning - Rewards at end of epoch: [-0.62068966 -0.30172414 -0.65517241 ... -0.53448276 -0.15517241
+ -0.27586207]
+INFO - Q-Learning - Rewards at end of epoch: [-0.62711864 -0.31355932 -0.66101695 ... -0.54237288 -0.16949153
+ -0.25423729]
+INFO - Q-Learning - Rewards at end of epoch: [-0.63333333 -0.30833333 -0.61666667 ... -0.55       -0.18333333
+ -0.25      ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.59016393 -0.31967213 -0.62295082 ... -0.52459016 -0.19672131
+ -0.2295082 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.61290323 -0.33064516 -0.62903226 ... -0.53225806 -0.20967742
+ -0.20967742]
+INFO - Q-Learning - Rewards at end of epoch: [-0.61904762 -0.29365079 -0.61904762 ... -0.53968254 -0.20634921
+ -0.19047619]
+INFO - Q-Learning - Rewards at end of epoch: [-0.609375  -0.3046875 -0.625     ... -0.515625  -0.234375  -0.171875 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.61538462 -0.31538462 -0.63076923 ... -0.52307692 -0.21538462
+ -0.18461538]
+INFO - Q-Learning - Rewards at end of epoch: [-0.62121212 -0.29545455 -0.63636364 ... -0.53030303 -0.22727273
+ -0.1969697 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.59701493 -0.30597015 -0.65671642 ... -0.53731343 -0.23880597
+ -0.17910448]
+INFO - Q-Learning - Rewards at end of epoch: [-0.57352941 -0.31617647 -0.66176471 ... -0.52941176 -0.26470588
+ -0.16176471]
+INFO - Q-Learning - Rewards at end of epoch: [-0.56521739 -0.2826087  -0.68115942 ... -0.53623188 -0.28985507
+ -0.17391304]
+INFO - Q-Learning - Rewards at end of epoch: [-0.57142857 -0.29285714 -0.7        ... -0.54285714 -0.3
+ -0.15714286]
+INFO - Q-Learning - Rewards at end of epoch: [-0.53521127 -0.27464789 -0.67605634 ... -0.54929577 -0.28169014
+ -0.14084507]
+INFO - Q-Learning - Rewards at end of epoch: [-0.55555556 -0.25694444 -0.68055556 ... -0.51388889 -0.29166667
+ -0.16666667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.53424658 -0.23972603 -0.68493151 ... -0.49315068 -0.2739726
+ -0.1369863 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.54054054 -0.25       -0.7027027  ... -0.47297297 -0.2972973
+ -0.14864865]
+INFO - Q-Learning - Rewards at end of epoch: [-0.56       -0.26       -0.70666667 ... -0.48       -0.30666667
+ -0.12      ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.56578947 -0.26973684 -0.69736842 ... -0.48684211 -0.31578947
+ -0.09210526]
+INFO - Q-Learning - Rewards at end of epoch: [-0.57142857 -0.27922078 -0.68831169 ... -0.50649351 -0.2987013
+ -0.1038961 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.57692308 -0.28846154 -0.69230769 ... -0.52564103 -0.26923077
+ -0.12820513]
+INFO - Q-Learning - Rewards at end of epoch: [-0.55696203 -0.2721519  -0.70886076 ... -0.50632911 -0.27848101
+ -0.13924051]
+INFO - Q-Learning - Rewards at end of epoch: [-0.575   -0.25625 -0.6875  ... -0.5125  -0.2875  -0.1125 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.59259259 -0.2654321  -0.66666667 ... -0.50617284 -0.27160494
+ -0.13580247]
+INFO - Q-Learning - Rewards at end of epoch: [-0.58536585 -0.27439024 -0.65853659 ... -0.48780488 -0.26829268
+ -0.12195122]
+INFO - Q-Learning - Rewards at end of epoch: [-0.59036145 -0.28313253 -0.6626506  ... -0.46987952 -0.24096386
+ -0.10843373]
+INFO - Q-Learning - Rewards at end of epoch: [-0.5952381  -0.30357143 -0.66666667 ... -0.48809524 -0.22619048
+ -0.0952381 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.57647059 -0.28823529 -0.63529412 ... -0.49411765 -0.23529412
+ -0.07058824]
+INFO - Q-Learning - Rewards at end of epoch: [-0.55813953 -0.26162791 -0.63953488 ... -0.46511628 -0.24418605
+ -0.08139535]
+INFO - Q-Learning - Rewards at end of epoch: [-0.57471264 -0.27011494 -0.64367816 ... -0.47126437 -0.25287356
+ -0.09195402]
+INFO - Q-Learning - Rewards at end of epoch: [-0.59090909 -0.27840909 -0.65909091 ... -0.47727273 -0.22727273
+ -0.10227273]
+INFO - Q-Learning - Rewards at end of epoch: [-0.59550562 -0.26404494 -0.65168539 ... -0.48314607 -0.23595506
+ -0.12359551]
+INFO - Q-Learning - Rewards at end of epoch: [-0.61111111 -0.28333333 -0.65555556 ... -0.45555556 -0.21111111
+ -0.14444444]
+INFO - Q-Learning - Rewards at end of epoch: [-0.59340659 -0.26923077 -0.63736264 ... -0.46153846 -0.1978022
+ -0.13186813]
+INFO - Q-Learning - Rewards at end of epoch: [-0.60869565 -0.27717391 -0.63043478 ... -0.45652174 -0.20652174
+ -0.15217391]
+INFO - Q-Learning - Rewards at end of epoch: [-0.61290323 -0.26344086 -0.61290323 ... -0.46236559 -0.19354839
+ -0.16129032]
+INFO - Q-Learning - Rewards at end of epoch: [-0.61702128 -0.25       -0.59574468 ... -0.44680851 -0.20212766
+ -0.18085106]
+INFO - Q-Learning - Rewards at end of epoch: [-0.58947368 -0.25789474 -0.56842105 ... -0.43157895 -0.21052632
+ -0.18947368]
+INFO - Q-Learning - Rewards at end of epoch: [-0.59375    -0.265625   -0.57291667 ... -0.4375     -0.19791667
+ -0.19791667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.59793814 -0.27319588 -0.56701031 ... -0.44329897 -0.20618557
+ -0.18556701]
+INFO - Q-Learning - Rewards at end of epoch: [-0.60204082 -0.29081633 -0.57142857 ... -0.43367347 -0.21428571
+ -0.20408163]
+INFO - Q-Learning - Rewards at end of epoch: [-0.57575758 -0.27777778 -0.57575758 ... -0.41919192 -0.2020202
+ -0.19191919]
+INFO - Q-Learning - Rewards at end of epoch: [-0.58  -0.295 -0.58  ... -0.395 -0.22  -0.2  ]
+INFO - Q-Learning - Rewards at end of epoch: [ 1. -1. -1. ... -1. -2. -1.]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.  -1.5  0.5 ...  0.   0.  -1. ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.33333333 -0.66666667  1.         ... -0.33333333 -0.33333333
+  0.        ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.   -0.75  1.   ...  0.    0.    0.25]
+INFO - Q-Learning - Rewards at end of epoch: [-0.4 -0.8  0.6 ... -0.2 -0.2  0. ]
+INFO - Q-Learning - Rewards at end of epoch: [-6.66666667e-01 -8.33333333e-01  3.33333333e-01 ... -3.33333333e-01
+ -2.77555756e-17  1.66666667e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-7.14285714e-01 -5.71428571e-01  1.42857143e-01 ... -4.28571429e-01
+ -1.42857143e-01 -2.77555756e-17]
+INFO - Q-Learning - Rewards at end of epoch: [-0.875 -0.375  0.375 ... -0.125 -0.25  -0.125]
+INFO - Q-Learning - Rewards at end of epoch: [-0.66666667 -0.22222222  0.11111111 ...  0.         -0.44444444
+ -0.33333333]
+INFO - Q-Learning - Rewards at end of epoch: [-7.00000000e-01 -3.00000000e-01 -1.38777878e-17 ...  2.00000000e-01
+ -3.00000000e-01 -5.00000000e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.72727273 -0.18181818 -0.09090909 ...  0.         -0.18181818
+ -0.36363636]
+INFO - Q-Learning - Rewards at end of epoch: [-7.50000000e-01 -2.77555756e-17 -1.66666667e-01 ...  8.33333333e-02
+ -8.33333333e-02 -5.00000000e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.69230769  0.07692308 -0.23076923 ...  0.          0.07692308
+ -0.53846154]
+INFO - Q-Learning - Rewards at end of epoch: [-7.14285714e-01  1.42857143e-01 -3.57142857e-01 ... -7.14285714e-02
+  2.77555756e-17 -4.28571429e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.6         0.         -0.2        ...  0.         -0.13333333
+ -0.33333333]
+INFO - Q-Learning - Rewards at end of epoch: [-0.5    -0.125  -0.3125 ... -0.0625 -0.0625 -0.375 ]
+INFO - Q-Learning - Rewards at end of epoch: [-3.52941176e-01 -1.17647059e-01 -1.76470588e-01 ... -1.17647059e-01
+  2.77555756e-17 -4.11764706e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.38888889 -0.11111111 -0.22222222 ...  0.         -0.11111111
+ -0.27777778]
+INFO - Q-Learning - Rewards at end of epoch: [-0.47368421 -0.15789474 -0.15789474 ... -0.05263158 -0.15789474
+ -0.31578947]
+INFO - Q-Learning - Rewards at end of epoch: [-0.45  -0.225 -0.15  ... -0.125 -0.05  -0.35 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.52380952 -0.26190476 -0.19047619 ... -0.02380952 -0.0952381
+ -0.42857143]
+INFO - Q-Learning - Rewards at end of epoch: [-0.54545455 -0.29545455 -0.22727273 ... -0.06818182 -0.13636364
+ -0.5       ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.47826087 -0.23913043 -0.17391304 ... -0.02173913 -0.17391304
+ -0.43478261]
+INFO - Q-Learning - Rewards at end of epoch: [-0.5        -0.3125     -0.125      ...  0.02083333 -0.20833333
+ -0.45833333]
+INFO - Q-Learning - Rewards at end of epoch: [-0.52 -0.26 -0.08 ...  0.06 -0.12 -0.36]
+INFO - Q-Learning - Rewards at end of epoch: [-0.46153846 -0.21153846 -0.15384615 ...  0.01923077 -0.15384615
+ -0.26923077]
+INFO - Q-Learning - Rewards at end of epoch: [-0.48148148 -0.12962963 -0.18518519 ...  0.05555556 -0.18518519
+ -0.22222222]
+INFO - Q-Learning - Rewards at end of epoch: [-0.5        -0.08928571 -0.14285714 ...  0.01785714 -0.21428571
+ -0.25      ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.48275862 -0.15517241 -0.06896552 ... -0.01724138 -0.24137931
+ -0.31034483]
+INFO - Q-Learning - Rewards at end of epoch: [-0.5        -0.08333333 -0.1        ...  0.01666667 -0.26666667
+ -0.33333333]
+INFO - Q-Learning - Rewards at end of epoch: [-0.4516129  -0.0483871  -0.06451613 ...  0.0483871  -0.29032258
+ -0.35483871]
+INFO - Q-Learning - Rewards at end of epoch: [-0.46875  -0.015625 -0.03125  ...  0.109375 -0.25     -0.375   ]
+INFO - Q-Learning - Rewards at end of epoch: [-4.24242424e-01 -4.54545455e-02 -2.77555756e-17 ...  4.54545455e-02
+ -2.12121212e-01 -3.93939394e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.47058824  0.01470588 -0.02941176 ... -0.01470588 -0.17647059
+ -0.35294118]
+INFO - Q-Learning - Rewards at end of epoch: [-4.00000000e-01 -1.42857143e-02 -2.42861287e-17 ... -4.28571429e-02
+ -2.00000000e-01 -3.71428571e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.41666667  0.01388889  0.02777778 ... -0.06944444 -0.16666667
+ -0.38888889]
+INFO - Q-Learning - Rewards at end of epoch: [-4.59459459e-01  4.05405405e-02 -2.42861287e-17 ... -1.21621622e-01
+ -2.16216216e-01 -4.05405405e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.42105263  0.01315789 -0.02631579 ... -0.14473684 -0.23684211
+ -0.42105263]
+INFO - Q-Learning - Rewards at end of epoch: [-0.46153846 -0.03846154 -0.05128205 ... -0.16666667 -0.25641026
+ -0.46153846]
+INFO - Q-Learning - Rewards at end of epoch: [-0.45   -0.0625 -0.075  ... -0.1375 -0.225  -0.425 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.46341463 -0.08536585 -0.09756098 ... -0.1097561  -0.26829268
+ -0.43902439]
+INFO - Q-Learning - Rewards at end of epoch: [-0.47619048 -0.10714286 -0.07142857 ... -0.1547619  -0.30952381
+ -0.45238095]
+INFO - Q-Learning - Rewards at end of epoch: [-0.48837209 -0.12790698 -0.09302326 ... -0.12790698 -0.34883721
+ -0.41860465]
+INFO - Q-Learning - Rewards at end of epoch: [-0.5        -0.14772727 -0.06818182 ... -0.17045455 -0.36363636
+ -0.43181818]
+INFO - Q-Learning - Rewards at end of epoch: [-0.48888889 -0.18888889 -0.11111111 ... -0.14444444 -0.37777778
+ -0.44444444]
+INFO - Q-Learning - Rewards at end of epoch: [-0.43478261 -0.22826087 -0.08695652 ... -0.16304348 -0.39130435
+ -0.45652174]
+INFO - Q-Learning - Rewards at end of epoch: [-0.44680851 -0.24468085 -0.10638298 ... -0.20212766 -0.34042553
+ -0.42553191]
+INFO - Q-Learning - Rewards at end of epoch: [-0.41666667 -0.21875    -0.14583333 ... -0.17708333 -0.29166667
+ -0.39583333]
+INFO - Q-Learning - Rewards at end of epoch: [-0.42857143 -0.19387755 -0.12244898 ... -0.19387755 -0.30612245
+ -0.40816327]
+INFO - Q-Learning - Rewards at end of epoch: [-0.4  -0.21 -0.12 ... -0.23 -0.26 -0.42]
+INFO - Q-Learning - Rewards at end of epoch: [-0.41176471 -0.18627451 -0.1372549  ... -0.24509804 -0.2745098
+ -0.43137255]
+INFO - Q-Learning - Rewards at end of epoch: [-0.42307692 -0.22115385 -0.11538462 ... -0.20192308 -0.28846154
+ -0.44230769]
+INFO - Q-Learning - Rewards at end of epoch: [-0.37735849 -0.19811321 -0.09433962 ... -0.21698113 -0.30188679
+ -0.47169811]
+INFO - Q-Learning - Rewards at end of epoch: [-0.38888889 -0.21296296 -0.05555556 ... -0.25       -0.31481481
+ -0.48148148]
+INFO - Q-Learning - Rewards at end of epoch: [-0.4        -0.22727273 -0.01818182 ... -0.26363636 -0.27272727
+ -0.49090909]
+INFO - Q-Learning - Rewards at end of epoch: [-4.10714286e-01 -2.41071429e-01 -2.42861287e-17 ... -2.41071429e-01
+ -2.32142857e-01 -4.64285714e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.43859649 -0.20175439  0.01754386 ... -0.20175439 -0.24561404
+ -0.43859649]
+INFO - Q-Learning - Rewards at end of epoch: [-0.44827586 -0.1637931   0.01724138 ... -0.21551724 -0.25862069
+ -0.46551724]
+INFO - Q-Learning - Rewards at end of epoch: [-4.57627119e-01 -1.44067797e-01 -2.42861287e-17 ... -2.45762712e-01
+ -2.71186441e-01 -4.91525424e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-4.83333333e-01 -1.58333333e-01 -2.38813599e-17 ... -2.58333333e-01
+ -2.33333333e-01 -5.00000000e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.49180328 -0.17213115 -0.03278689 ... -0.25409836 -0.19672131
+ -0.52459016]
+INFO - Q-Learning - Rewards at end of epoch: [-0.46774194 -0.2016129  -0.01612903 ... -0.21774194 -0.19354839
+ -0.48387097]
+INFO - Q-Learning - Rewards at end of epoch: [-0.47619048 -0.16666667 -0.03174603 ... -0.1984127  -0.20634921
+ -0.44444444]
+INFO - Q-Learning - Rewards at end of epoch: [-0.4375    -0.1953125 -0.046875  ... -0.1796875 -0.1875    -0.46875  ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.43076923 -0.20769231 -0.04615385 ... -0.16153846 -0.18461538
+ -0.44615385]
+INFO - Q-Learning - Rewards at end of epoch: [-0.43939394 -0.21969697 -0.06060606 ... -0.17424242 -0.21212121
+ -0.42424242]
+INFO - Q-Learning - Rewards at end of epoch: [-0.41791045 -0.23134328 -0.07462687 ... -0.15671642 -0.23880597
+ -0.40298507]
+INFO - Q-Learning - Rewards at end of epoch: [-0.38235294 -0.24264706 -0.08823529 ... -0.18382353 -0.25
+ -0.42647059]
+INFO - Q-Learning - Rewards at end of epoch: [-0.39130435 -0.23913043 -0.10144928 ... -0.16666667 -0.23188406
+ -0.44927536]
+INFO - Q-Learning - Rewards at end of epoch: [-0.4        -0.25       -0.08571429 ... -0.17857143 -0.21428571
+ -0.45714286]
+INFO - Q-Learning - Rewards at end of epoch: [-0.36619718 -0.26056338 -0.11267606 ... -0.19014085 -0.22535211
+ -0.43661972]
+INFO - Q-Learning - Rewards at end of epoch: [-0.38888889 -0.24305556 -0.125      ... -0.15972222 -0.23611111
+ -0.40277778]
+INFO - Q-Learning - Rewards at end of epoch: [-0.38356164 -0.2260274  -0.10958904 ... -0.18493151 -0.24657534
+ -0.4109589 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.39189189 -0.20945946 -0.12162162 ... -0.15540541 -0.25675676
+ -0.41891892]
+INFO - Q-Learning - Rewards at end of epoch: [-0.41333333 -0.20666667 -0.10666667 ... -0.14       -0.26666667
+ -0.42666667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.40789474 -0.21710526 -0.09210526 ... -0.16447368 -0.25
+ -0.39473684]
+INFO - Q-Learning - Rewards at end of epoch: [-0.41558442 -0.18831169 -0.1038961  ... -0.14935065 -0.22077922
+ -0.37662338]
+INFO - Q-Learning - Rewards at end of epoch: [-0.43589744 -0.16025641 -0.07692308 ... -0.12179487 -0.20512821
+ -0.38461538]
+INFO - Q-Learning - Rewards at end of epoch: [-0.44303797 -0.17088608 -0.10126582 ... -0.12025316 -0.21518987
+ -0.39240506]
+INFO - Q-Learning - Rewards at end of epoch: [-0.45625 -0.16875 -0.1125  ... -0.10625 -0.2125  -0.4125 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.4382716  -0.17901235 -0.12345679 ... -0.09259259 -0.19753086
+ -0.38271605]
+INFO - Q-Learning - Rewards at end of epoch: [-0.40853659 -0.18902439 -0.1097561  ... -0.11585366 -0.20731707
+ -0.3902439 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.41566265 -0.1746988  -0.13253012 ... -0.09036145 -0.21686747
+ -0.38554217]
+INFO - Q-Learning - Rewards at end of epoch: [-0.42261905 -0.16071429 -0.13095238 ... -0.10119048 -0.20238095
+ -0.39285714]
+INFO - Q-Learning - Rewards at end of epoch: [-0.39411765 -0.17058824 -0.15294118 ... -0.11176471 -0.22352941
+ -0.4       ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.37790698 -0.15697674 -0.1744186  ... -0.12209302 -0.20930233
+ -0.40697674]
+INFO - Q-Learning - Rewards at end of epoch: [-0.39655172 -0.16666667 -0.16091954 ... -0.1091954  -0.22988506
+ -0.4137931 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.40340909 -0.17613636 -0.17045455 ... -0.13068182 -0.25
+ -0.42045455]
+INFO - Q-Learning - Rewards at end of epoch: [-0.38764045 -0.18539326 -0.17977528 ... -0.11797753 -0.25842697
+ -0.42696629]
+INFO - Q-Learning - Rewards at end of epoch: [-0.40555556 -0.17222222 -0.18888889 ... -0.12777778 -0.26666667
+ -0.43333333]
+INFO - Q-Learning - Rewards at end of epoch: [-0.39010989 -0.15934066 -0.20879121 ... -0.13736264 -0.25274725
+ -0.45054945]
+INFO - Q-Learning - Rewards at end of epoch: [-0.39673913 -0.16847826 -0.19565217 ... -0.125      -0.23913043
+ -0.45652174]
+INFO - Q-Learning - Rewards at end of epoch: [-0.39247312 -0.17741935 -0.21505376 ... -0.14516129 -0.24731183
+ -0.46236559]
+INFO - Q-Learning - Rewards at end of epoch: [-0.39893617 -0.18617021 -0.22340426 ... -0.13297872 -0.23404255
+ -0.46808511]
+INFO - Q-Learning - Rewards at end of epoch: [-0.41578947 -0.16315789 -0.21052632 ... -0.15263158 -0.24210526
+ -0.47368421]
+INFO - Q-Learning - Rewards at end of epoch: [-0.421875   -0.171875   -0.19791667 ... -0.171875   -0.22916667
+ -0.48958333]
+INFO - Q-Learning - Rewards at end of epoch: [-0.39690722 -0.18041237 -0.21649485 ... -0.15979381 -0.22164948
+ -0.49484536]
+INFO - Q-Learning - Rewards at end of epoch: [-0.40306122 -0.18877551 -0.2244898  ... -0.16836735 -0.22959184
+ -0.48979592]
+INFO - Q-Learning - Rewards at end of epoch: [-0.40909091 -0.1969697  -0.24242424 ... -0.15656566 -0.23737374
+ -0.49494949]
+INFO - Q-Learning - Rewards at end of epoch: [-0.415 -0.185 -0.25  ... -0.165 -0.255 -0.5  ]
+INFO - Q-Learning - Rewards at end of epoch: [-1.   1.  -2.  ...  1.   1.  -0.5]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.    1.   -1.5  ...  0.    1.    0.25]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.33333333  0.33333333 -0.33333333 ... -0.66666667  1.
+  0.16666667]
+INFO - Q-Learning - Rewards at end of epoch: [ 5.00000000e-01  0.00000000e+00  5.55111512e-17 ... -2.50000000e-01
+  5.00000000e-01  3.75000000e-01]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.  -0.4 -0.4 ...  0.   0.4 -0.1]
+INFO - Q-Learning - Rewards at end of epoch: [-0.33333333 -0.16666667  0.         ... -0.16666667  0.33333333
+ -0.25      ]
+INFO - Q-Learning - Rewards at end of epoch: [ 5.55111512e-17  1.42857143e-01  1.42857143e-01 ...  2.77555756e-17
+  4.28571429e-01 -3.57142857e-01]
+INFO - Q-Learning - Rewards at end of epoch: [ 1.25000000e-01 -1.25000000e-01  0.00000000e+00 ...  2.42861287e-17
+  6.25000000e-01 -4.37500000e-01]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.22222222 -0.33333333  0.11111111 ... -0.22222222  0.66666667
+ -0.5       ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.4  -0.4   0.1  ... -0.3   0.5  -0.35]
+INFO - Q-Learning - Rewards at end of epoch: [ 5.45454545e-01 -2.72727273e-01 -1.38777878e-17 ... -3.63636364e-01
+  3.63636364e-01 -4.09090909e-01]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.41666667 -0.41666667 -0.08333333 ... -0.25        0.41666667
+ -0.375     ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.53846154 -0.46153846 -0.15384615 ... -0.30769231  0.53846154
+ -0.42307692]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.57142857 -0.5        -0.28571429 ... -0.35714286  0.42857143
+ -0.46428571]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.46666667 -0.6        -0.33333333 ... -0.46666667  0.53333333
+ -0.36666667]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.375   -0.4375  -0.3125  ... -0.5      0.375   -0.46875]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.41176471 -0.47058824 -0.35294118 ... -0.58823529  0.29411765
+ -0.5       ]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.33333333 -0.5        -0.33333333 ... -0.61111111  0.22222222
+ -0.41666667]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.36842105 -0.52631579 -0.26315789 ... -0.57894737  0.15789474
+ -0.34210526]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.3   -0.45  -0.3   ... -0.6    0.2   -0.375]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.23809524 -0.38095238 -0.23809524 ... -0.52380952  0.0952381
+ -0.45238095]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.18181818 -0.40909091 -0.31818182 ... -0.45454545  0.04545455
+ -0.52272727]
+INFO - Q-Learning - Rewards at end of epoch: [ 1.30434783e-01 -4.34782609e-01 -3.47826087e-01 ... -4.78260870e-01
+ -1.38777878e-17 -5.43478261e-01]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.08333333 -0.41666667 -0.25       ... -0.5        -0.04166667
+ -0.47916667]
+INFO - Q-Learning - Rewards at end of epoch: [ 1.2000000e-01 -4.8000000e-01 -2.8000000e-01 ... -4.4000000e-01
+ -6.9388939e-18 -3.8000000e-01]
+INFO - Q-Learning - Rewards at end of epoch: [ 7.69230769e-02 -5.38461538e-01 -3.46153846e-01 ... -4.61538462e-01
+ -6.67201337e-18 -4.03846154e-01]
+INFO - Q-Learning - Rewards at end of epoch: [ 0.03703704 -0.59259259 -0.2962963  ... -0.48148148 -0.07407407
+ -0.31481481]
+INFO - Q-Learning - Rewards at end of epoch: [ 6.93889390e-18 -5.00000000e-01 -3.21428571e-01 ... -5.00000000e-01
+ -3.57142857e-02 -2.67857143e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.06896552 -0.51724138 -0.27586207 ... -0.55172414  0.03448276
+ -0.29310345]
+INFO - Q-Learning - Rewards at end of epoch: [-0.1        -0.46666667 -0.23333333 ... -0.6         0.06666667
+ -0.28333333]
+INFO - Q-Learning - Rewards at end of epoch: [-0.06451613 -0.51612903 -0.16129032 ... -0.64516129  0.03225806
+ -0.30645161]
+INFO - Q-Learning - Rewards at end of epoch: [-0.09375  -0.46875  -0.125    ... -0.59375  -0.03125  -0.234375]
+INFO - Q-Learning - Rewards at end of epoch: [-0.06060606 -0.48484848 -0.09090909 ... -0.54545455 -0.09090909
+ -0.16666667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.02941176 -0.52941176 -0.14705882 ... -0.58823529 -0.11764706
+ -0.19117647]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05714286 -0.54285714 -0.11428571 ... -0.6        -0.14285714
+ -0.21428571]
+INFO - Q-Learning - Rewards at end of epoch: [-1.38777878e-17 -5.83333333e-01 -1.38888889e-01 ... -6.11111111e-01
+ -1.66666667e-01 -2.63888889e-01]
+INFO - Q-Learning - Rewards at end of epoch: [-0.05405405 -0.59459459 -0.10810811 ... -0.56756757 -0.18918919
+ -0.28378378]
+INFO - Q-Learning - Rewards at end of epoch: [-0.10526316 -0.60526316 -0.13157895 ... -0.60526316 -0.21052632
+ -0.25      ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.12820513 -0.64102564 -0.12820513 ... -0.61538462 -0.23076923
+ -0.21794872]
+INFO - Q-Learning - Rewards at end of epoch: [-0.15   -0.625  -0.175  ... -0.575  -0.25   -0.2625]
+INFO - Q-Learning - Rewards at end of epoch: [-0.17073171 -0.63414634 -0.12195122 ... -0.53658537 -0.26829268
+ -0.30487805]
+INFO - Q-Learning - Rewards at end of epoch: [-0.19047619 -0.64285714 -0.14285714 ... -0.52380952 -0.28571429
+ -0.27380952]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20930233 -0.58139535 -0.13953488 ... -0.53488372 -0.3255814
+ -0.24418605]
+INFO - Q-Learning - Rewards at end of epoch: [-0.22727273 -0.59090909 -0.11363636 ... -0.54545455 -0.34090909
+ -0.26136364]
+INFO - Q-Learning - Rewards at end of epoch: [-0.17777778 -0.6        -0.13333333 ... -0.55555556 -0.31111111
+ -0.23333333]
+INFO - Q-Learning - Rewards at end of epoch: [-0.19565217 -0.56521739 -0.15217391 ... -0.56521739 -0.34782609
+ -0.25      ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.14893617 -0.57446809 -0.10638298 ... -0.53191489 -0.36170213
+ -0.20212766]
+INFO - Q-Learning - Rewards at end of epoch: [-0.10416667 -0.52083333 -0.125      ... -0.5625     -0.39583333
+ -0.23958333]
+INFO - Q-Learning - Rewards at end of epoch: [-0.14285714 -0.55102041 -0.14285714 ... -0.53061224 -0.42857143
+ -0.25510204]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18 -0.5  -0.16 ... -0.5  -0.46 -0.23]
+INFO - Q-Learning - Rewards at end of epoch: [-0.15686275 -0.50980392 -0.17647059 ... -0.50980392 -0.47058824
+ -0.26470588]
+INFO - Q-Learning - Rewards at end of epoch: [-0.13461538 -0.51923077 -0.15384615 ... -0.51923077 -0.48076923
+ -0.29807692]
+INFO - Q-Learning - Rewards at end of epoch: [-0.16981132 -0.49056604 -0.1509434  ... -0.47169811 -0.49056604
+ -0.27358491]
+INFO - Q-Learning - Rewards at end of epoch: [-0.2037037  -0.5        -0.16666667 ... -0.5        -0.46296296
+ -0.28703704]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18181818 -0.47272727 -0.18181818 ... -0.50909091 -0.41818182
+ -0.31818182]
+INFO - Q-Learning - Rewards at end of epoch: [-0.17857143 -0.44642857 -0.19642857 ... -0.46428571 -0.42857143
+ -0.29464286]
+INFO - Q-Learning - Rewards at end of epoch: [-0.21052632 -0.45614035 -0.1754386  ... -0.47368421 -0.45614035
+ -0.3245614 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18965517 -0.48275862 -0.18965517 ... -0.44827586 -0.46551724
+ -0.28448276]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20338983 -0.50847458 -0.22033898 ... -0.45762712 -0.47457627
+ -0.24576271]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18333333 -0.51666667 -0.2        ... -0.43333333 -0.5
+ -0.20833333]
+INFO - Q-Learning - Rewards at end of epoch: [-0.21311475 -0.49180328 -0.21311475 ... -0.45901639 -0.47540984
+ -0.22131148]
+INFO - Q-Learning - Rewards at end of epoch: [-0.22580645 -0.4516129  -0.22580645 ... -0.46774194 -0.48387097
+ -0.23387097]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20634921 -0.46031746 -0.23809524 ... -0.49206349 -0.46031746
+ -0.1984127 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.203125  -0.46875   -0.25      ... -0.515625  -0.46875   -0.2265625]
+INFO - Q-Learning - Rewards at end of epoch: [-0.23076923 -0.44615385 -0.26153846 ... -0.53846154 -0.44615385
+ -0.23846154]
+INFO - Q-Learning - Rewards at end of epoch: [-0.22727273 -0.42424242 -0.27272727 ... -0.51515152 -0.45454545
+ -0.21969697]
+INFO - Q-Learning - Rewards at end of epoch: [-0.25373134 -0.43283582 -0.25373134 ... -0.53731343 -0.43283582
+ -0.20149254]
+INFO - Q-Learning - Rewards at end of epoch: [-0.26470588 -0.42647059 -0.26470588 ... -0.54411765 -0.45588235
+ -0.18382353]
+INFO - Q-Learning - Rewards at end of epoch: [-0.24637681 -0.43478261 -0.23188406 ... -0.50724638 -0.47826087
+ -0.16666667]
+INFO - Q-Learning - Rewards at end of epoch: [-0.27142857 -0.44285714 -0.22857143 ... -0.52857143 -0.45714286
+ -0.19285714]
+INFO - Q-Learning - Rewards at end of epoch: [-0.25352113 -0.42253521 -0.25352113 ... -0.54929577 -0.46478873
+ -0.20422535]
+INFO - Q-Learning - Rewards at end of epoch: [-0.22222222 -0.38888889 -0.27777778 ... -0.54166667 -0.43055556
+ -0.1875    ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.19178082 -0.35616438 -0.26027397 ... -0.50684932 -0.43835616
+ -0.17123288]
+INFO - Q-Learning - Rewards at end of epoch: [-0.16216216 -0.36486486 -0.24324324 ... -0.51351351 -0.44594595
+ -0.19594595]
+INFO - Q-Learning - Rewards at end of epoch: [-0.14666667 -0.34666667 -0.26666667 ... -0.53333333 -0.41333333
+ -0.18      ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.15789474 -0.32894737 -0.27631579 ... -0.53947368 -0.42105263
+ -0.16447368]
+INFO - Q-Learning - Rewards at end of epoch: [-0.14285714 -0.31168831 -0.28571429 ... -0.55844156 -0.42857143
+ -0.14935065]
+INFO - Q-Learning - Rewards at end of epoch: [-0.16666667 -0.32051282 -0.25641026 ... -0.53846154 -0.3974359
+ -0.17307692]
+INFO - Q-Learning - Rewards at end of epoch: [-0.17721519 -0.30379747 -0.24050633 ... -0.55696203 -0.40506329
+ -0.14556962]
+INFO - Q-Learning - Rewards at end of epoch: [-0.2     -0.325   -0.25    ... -0.525   -0.4125  -0.13125]
+INFO - Q-Learning - Rewards at end of epoch: [-0.22222222 -0.2962963  -0.25925926 ... -0.54320988 -0.43209877
+ -0.11728395]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20731707 -0.2804878  -0.2804878  ... -0.53658537 -0.43902439
+ -0.1402439 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18072289 -0.28915663 -0.28915663 ... -0.54216867 -0.44578313
+ -0.15060241]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20238095 -0.29761905 -0.29761905 ... -0.54761905 -0.42857143
+ -0.125     ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18823529 -0.27058824 -0.28235294 ... -0.51764706 -0.41176471
+ -0.11176471]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20930233 -0.25581395 -0.27906977 ... -0.52325581 -0.40697674
+ -0.12209302]
+INFO - Q-Learning - Rewards at end of epoch: [-0.1954023  -0.22988506 -0.28735632 ... -0.49425287 -0.42528736
+ -0.13218391]
+INFO - Q-Learning - Rewards at end of epoch: [-0.19318182 -0.25       -0.29545455 ... -0.5        -0.43181818
+ -0.11931818]
+INFO - Q-Learning - Rewards at end of epoch: [-0.17977528 -0.2247191  -0.30337079 ... -0.47191011 -0.43820225
+ -0.11797753]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18888889 -0.23333333 -0.27777778 ... -0.47777778 -0.44444444
+ -0.09444444]
+INFO - Q-Learning - Rewards at end of epoch: [-0.17582418 -0.25274725 -0.2967033  ... -0.48351648 -0.45054945
+ -0.11538462]
+INFO - Q-Learning - Rewards at end of epoch: [-0.16304348 -0.23913043 -0.30434783 ... -0.48913043 -0.44565217
+ -0.10326087]
+INFO - Q-Learning - Rewards at end of epoch: [-0.16129032 -0.22580645 -0.29032258 ... -0.48387097 -0.46236559
+ -0.09139785]
+INFO - Q-Learning - Rewards at end of epoch: [-0.18085106 -0.20212766 -0.26595745 ... -0.46808511 -0.46808511
+ -0.07978723]
+INFO - Q-Learning - Rewards at end of epoch: [-0.16842105 -0.21052632 -0.27368421 ... -0.44210526 -0.47368421
+ -0.1       ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.1875     -0.22916667 -0.28125    ... -0.44791667 -0.44791667
+ -0.109375  ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.20618557 -0.2371134  -0.26804124 ... -0.43298969 -0.44329897
+ -0.12886598]
+INFO - Q-Learning - Rewards at end of epoch: [-0.21428571 -0.25510204 -0.28571429 ... -0.43877551 -0.45918367
+ -0.10714286]
+INFO - Q-Learning - Rewards at end of epoch: [-0.22222222 -0.26262626 -0.27272727 ... -0.44444444 -0.47474747
+ -0.0959596 ]
+INFO - Q-Learning - Rewards at end of epoch: [-0.23  -0.27  -0.28  ... -0.46  -0.48  -0.105]
